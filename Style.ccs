@@ -1,0 +1,100 @@
+.mes-liens{
+    color: black;
+    text-decoration: none;  
+    font-size: 1em;
+    font-family: 'Manrope', sans-serif;
+}
+em{
+    color: #a5b4fc;
+    font-style: normal;
+}
+h1{
+    font-size: 3.5em;
+    color: #a5b4fc;
+    font-family: 'Montserrat', sans-serif;
+    color: #F9F8FF;
+}
+p{
+    font-size: 1em;
+    font-family: 'Manrope', sans-serif;
+    color: #F9F8FF;
+}
+li{
+    font-size: 1em;
+    font-family: 'Manrope', sans-serif;
+    color: #F9F8FF;
+}
+
+.entet_et_pied{
+    background-color: white;
+}
+.entet_et_pied:hover{
+    opacity: 0.5;
+}
+body{
+    background-color: #1f2039;
+    font-size: 1em;
+    background-color: #1f2039;
+}
+.contact{
+    background: linear-gradient(#8E86B5, #ACAEED);
+   color: white;
+   border-radius: 50px;
+}
+.contact:hover{
+    background: linear-gradient(#696484, #8788ba);
+    text-decoration:none;
+}
+.cp{
+    border-right: 1px solid #8E86B5;
+    border-bottom: 1px solid #8E86B5;
+    padding: 50px;
+}
+a:hover{
+    text-decoration: underline;
+}
+*{
+    margin: 0;
+}
+header{
+    padding: 20px 50px;
+}
+footer{
+    padding: 20px 50px;
+}
+section{
+    padding: 50px;
+}
+.ctn_ap{
+    margin: auto;
+}
+.ctn_ap h2{
+    margin-top: 30pd;
+}
+.ctn_ap ul{
+    margin-top: 30px;
+}
+.logo_de_pied_de_page{
+    display: flex;
+    justify-content:flex-start;
+    align-items: flex-start;
+}
+.logo_reseau{
+    display: flex;
+    justify-content: flex-end;
+    align-items: end;
+}
+.nv_ctn{
+    display: flex;
+    flex-direction: row;
+    width: 50px;
+    align-items: center;
+    margin: auto;
+}
+.im_robbie{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    justify-content: center;
+    margin-bottom: 15px;
+}
